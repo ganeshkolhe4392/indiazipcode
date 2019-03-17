@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='indiazipcode',  
-     version='0.1',
+     version='1.1.3',
      scripts=['indiazipcode'] ,
      author="shriganesh kolhe",
      author_email="shriganeshkaialsh.kolhe@ucdenver.edu",
