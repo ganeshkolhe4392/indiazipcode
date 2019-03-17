@@ -6,11 +6,7 @@ Created on Sat Mar 16 17:18:19 2019
 @author: shriganeshkolhe
 """
 
-import hello
+import methods
 
-hello.world()
-
-print(hello.shark)
-
-j = hello.Octopus("jesse","orange")
-
+j = methods.by_zipcode("443404").to_dict()
+print(j)

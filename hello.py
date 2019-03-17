@@ -12,3 +12,5 @@ class Octopus:
         print("this Octopus is "+ self.color  + ".")
         print(self.name + " is octopus's name.")
         
+#j = hello.Octopus("jesse","orange")
+#j.color        
